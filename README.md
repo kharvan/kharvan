@@ -8,7 +8,7 @@ Also, im working on a Computer Vision project with Arduino Software and Hardware
 * HTML
 * WEB-DESIGN
 
-## Currently:
+## Currently
 
 - 🔭 I’m currently working on Computer Vision project with Arduino Software and Hardware 
 - 🌱 I’m currently learning Docker, Arduino 
