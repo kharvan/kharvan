@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Ivan
+#### I am GitHub Readme Generator's creator
+![I am NavVid startup co-founder, enterpreneur and a part time Python devepoper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**kharvan/kharvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
+
+- 🔭 I’m currently working on Computer Vision project with Arduino Hardware and Software. 
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
