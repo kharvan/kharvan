@@ -1,4 +1,4 @@
-## 👋, I'm Ivan
+# 👋, I'm Ivan
 ###  I am NavVid startup co-founder, enterpreneur and a part time Python developer
 I co-founded 3 startups, started a non-IT business, restored an old BMW 740i (just for fun), and code some Python stuff in my free time. Right in the moment am working on building a very COOL company SAVETOOL.COM.
 Also, im working on a Computer Vision project with Arduino Software and Hardware.
