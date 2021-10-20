@@ -1,10 +1,14 @@
-### Hi there 👋, my name is Ivan
-### I am NavVid startup co-founder, enterpreneur and a part time Python devepoper.
-![I am NavVid startup co-founder, enterpreneur and a part time Python devepoper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Ivan Kharlashkin
+####  I am NavVid startup co-founder, enterpreneur and a part time Python devepoper
+![ I am NavVid startup co-founder, enterpreneur and a part time Python devepoper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
+I co-founded 3 startups, started a non-IT business, restored an old BMW 740i (just for fun), and code some Python stuff in my free time. Right in the moment am working on building a very COOL company SAVETOOL.COM.
+Also, im working on a Computer Vision project with Arduino Software and Hardware.
 
-- 🔭 I’m currently working on Computer Vision project with Arduino Hardware and Software. 
+Skills: PYTHON, HTML, WEB-DESIGN
+
+- 🔭 I’m currently working on this page. 
+
 
 
 Here are some ideas to get you started:
