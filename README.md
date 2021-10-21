@@ -1,7 +1,9 @@
 # 👋, I'M IVAN 
 ###  NavVid startup co-founder, enterpreneur, part time programmer
-* I co-founded 3 startups
-* Started a non-IT business 
+
+# ABOUT ME
+* co-founded 3 startups
+* started a non-IT business 
 * restored an old BMW 740i (just for fun)
 * code some Python stuff in my free time 
 * building a SUPER COOL company SAVETOOL.COM
