@@ -1,21 +1,28 @@
-# 👋, I'm Ivan
-###  I am NavVid startup co-founder, enterpreneur and a part time Python developer
-I co-founded 3 startups, started a non-IT business, restored an old BMW 740i (just for fun), and code some Python stuff in my free time. Right in the moment am working on building a very COOL company SAVETOOL.COM.
-Also, im working on a Computer Vision project with Arduino Software and Hardware.
+# 👋, I'M IVAN 
+###  NavVid startup co-founder, enterpreneur, part time programmer
+* I co-founded 3 startups
+* Started a non-IT business 
+* restored an old BMW 740i (just for fun)
+* code some Python stuff in my free time 
+* building a SUPER COOL company SAVETOOL.COM
+* working on a Computer Vision (OpenCV) project with Arduino Software and Hardware.
 
-## Skills
+# SKILLS
 * PYTHON
-* HTML
-* WEB-DESIGN
 * OPENCV
+* HTML
+* CSS
+* JAVASCRIPT
+* FLEXBOX
+* REACT
+* WEB-DESIGN
 
-## Currently
-
-- 🔭 I’m currently working on Computer Vision project at OpenCV with Arduino Software and Hardware 
-- 🌱 I’m currently learning Docker, Arduino, OpenCV 
+# WHAT I DO NOW
+- 🔭 I’m currently working on Computer Vision project with Arduino Software and Hardware 
+- 🌱 I’m currently learning Docker, Arduino 
 - 🤔 I’m looking for help with Computer Vision 
+- 💬 Ask me about NavVid.com and SAVETOOL.COM
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kharvan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/kharvan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](navviad.com)  
-
 
